@@ -115,6 +115,8 @@ STV8QTZ562ABE07TWP45BSCQ0BNGB81WVNTNTCW3.liquidstateplatform
 - **GitHub**: [Repository link]
 - **Twitter**: [Official Twitter account]
 
+<img width="456" height="751" alt="image" src="https://github.com/user-attachments/assets/0f40af36-e898-4a11-8048-f296159aaa9c" />
+
 ---
 
 *This project is under active development. Please conduct thorough testing before using on mainnet.*
