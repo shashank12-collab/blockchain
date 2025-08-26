@@ -90,9 +90,6 @@ To democratize access to Stacks staking rewards while solving the liquidity prob
 ## Contract Address Details
 STV8QTZ562ABE07TWP45BSCQ0BNGB81WVNTNTCW3.liquidstateplatform
 
-**Mainnet Contract Address:** [To be added upon deployment]
-**Testnet Contract Address:** [To be added upon testnet deployment]
-
 ## Getting Started
 
 ### For Users
@@ -108,12 +105,7 @@ STV8QTZ562ABE07TWP45BSCQ0BNGB81WVNTNTCW3.liquidstateplatform
 3. Integrate stSTX token into your DeFi protocol
 4. Refer to our API documentation for integration guidelines
 
-## Community and Support
 
-- **Documentation**: [Link to detailed documentation]
-- **Discord**: [Community Discord server]
-- **GitHub**: [Repository link]
-- **Twitter**: [Official Twitter account]
 
 
 ---
