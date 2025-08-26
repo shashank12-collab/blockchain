@@ -1,4 +1,4 @@
-# blockchain# Liquid Stake Platform
+# Liquid Stake Platform
 
 ## Project Description
 
@@ -114,8 +114,6 @@ STV8QTZ562ABE07TWP45BSCQ0BNGB81WVNTNTCW3.liquidstateplatform
 - **Discord**: [Community Discord server]
 - **GitHub**: [Repository link]
 - **Twitter**: [Official Twitter account]
-
-<img width="456" height="751" alt="image" src="https://github.com/user-attachments/assets/0f40af36-e898-4a11-8048-f296159aaa9c" />
 
 ---
 
