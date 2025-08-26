@@ -115,6 +115,8 @@ STV8QTZ562ABE07TWP45BSCQ0BNGB81WVNTNTCW3.liquidstateplatform
 - **GitHub**: [Repository link]
 - **Twitter**: [Official Twitter account]
 
+
 ---
 
-*This project is under active development. Please conduct thorough testing before using on mainnet.*
+- This project is part of the decentralized publishing revolution. Join us in reshaping how literature is funded, published, and shared with the world. STV8QTZ562ABE07TWP45BSCQ0BNGB81WVNTNTCW3.liquidstateplatform
+<img width="1895" height="971" alt="Screenshot 2025-08-26 134114" src="https://github.com/user-attachments/assets/eb8e30c1-74b8-47b3-afa3-99b7edeb7694" />
